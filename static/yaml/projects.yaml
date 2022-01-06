@@ -1,0 +1,27 @@
+- name: Linux Distribution
+  members:
+    - bgoodwin
+    - jboueri
+    - cfinnan
+
+- name: Audio Client/Server
+  members:
+    - tfaughna
+    - pgierl
+    - nmcshea
+    - srodrig9
+
+- name: GNOME Extension
+  members:
+    - varora
+    - rmendiza
+    - ckusek2
+    - ckammes
+
+- name: Social Gaming
+  members:
+    - csaca
+    - aleone2
+    - jgordley
+    - rmccarte
+    - dmccart9

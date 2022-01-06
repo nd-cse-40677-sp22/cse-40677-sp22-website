@@ -1,0 +1,130 @@
+- name:     "Milestone 1: Infrastructure"
+
+- name:     Open Source Software
+  days:
+      - date:           Tue 01/11
+        topics:         History, Culture
+      - date:           Thu 01/13
+        topics:         Licenses, Development Model
+        assignment:     Progress 0
+
+- name:     Infrastructure
+  days:
+      - date:           Tue 01/18
+        topics:         Sprint
+
+      - date:           Thu 01/20
+        topics:         Briefing
+        assignment:     Progress 1
+
+- name:     Milestone 1
+  days:
+      - date:           Tue 01/25
+        topics:         Sprint
+
+      - date:           Thu 01/27
+        topics:         Presentation
+        assignment:     Milestone 1
+
+- name:     "Milestone 2: Design"
+
+- name:     Design
+  days:
+      - date:           Tue 02/01
+        topics:         Sprint
+      
+      - date:           Thu 02/03
+        topics:         Briefing
+        assignment:     Progress 2
+
+- name:     Milestone 2
+  days:
+      - date:           Tue 02/08
+        topics:         Sprint
+
+      - date:           Thu 02/10
+        topics:         Presentation
+        assignment:     Milestone 2
+
+- name:     "Milestine 3: Prototype"
+
+- name:     Prototype
+  days:
+      - date:           Tue 02/15
+        topics:         Sprint
+      
+      - date:           Tue 02/17
+        topics:         Briefing
+        assignment:     Progress 3
+
+      - date:           Tue 02/22
+        topics:         Sprint
+      
+      - date:           Thu 02/24
+        topics:         Briefing
+        assignment:     Progress 4
+
+- name:     Milestone 3
+  days:
+      - date:           Tue 03/01
+        topics:         Sprint
+
+      - date:           Thu 03/03
+        topics:         Presentation
+        assignment:     Milestone 3
+
+- name:     Spring Break
+
+- name:     "Milestone 4: Packaging"
+
+- name:     Packaging
+  days:
+      - date:           Thu 03/15
+        topics:         Packaging, Containers
+
+      - date:           Thu 03/17
+        topics:         Documentation
+        assignment:     Progress 5
+
+      - date:           Tue 03/22
+        topics:         Sprint
+      
+      - date:           Thu 03/24
+        topics:         Briefing
+        assignment:     Progress 6
+
+- name:     Milestone 4
+  days:
+      - date:           Tue 03/29
+        topics:         Sprint
+      
+      - date:           Tue 03/31
+        topics:         Presentation
+        assignment:     Milestone 4
+
+- name:     "Milestone 5: Hackathon"
+
+- name:     "Hackathon"
+  days:
+      - date:           Tue 04/05
+        topics:         Sprint
+      
+      - date:           Tue 04/07
+        topics:         Briefing
+        assignment:     Progress 7
+
+      - date:           Tue 04/12
+        topics:         Sprint
+
+      - date:           Thu 04/14
+        topics:         Briefing
+        assignment:     Progress 8
+
+- name:     "Milestone 5"
+  days:
+      - date:           Tue 04/19
+        topics:         Sprint
+
+      - date:           Thu 04/21
+        topics:         Presentation
+        assignment:     Milestone 5
