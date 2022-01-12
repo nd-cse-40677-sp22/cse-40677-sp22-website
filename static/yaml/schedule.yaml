@@ -3,7 +3,7 @@
 - name:     Open Source Software
   days:
       - date:           Tue 01/11
-        topics:         History, Principles
+        topics:         Copyright, History
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1agPJCBX4Y5R812ywxVya1VL-1Lsj7NzXbd_rovhVh4M/edit?usp=sharing
@@ -11,8 +11,11 @@
             link:       https://docs.google.com/presentation/d/1wrvH5PjjtTfX45iijBlGz5S1EF-F-O8vFZUE4OWaNCc/edit?usp=sharing
 
       - date:           Thu 01/13
-        topics:         Licenses, Culture, Development Model
+        topics:         Licenses, Culture, Principles
         assignment:     Progress 0
+        items:
+          - name:       Slides
+            link:
 
 - name:     Infrastructure
   days:
