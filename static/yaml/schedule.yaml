@@ -15,7 +15,7 @@
         assignment:     Progress 0
         items:
           - name:       Slides
-            link:
+            link:       https://docs.google.com/presentation/d/1yGibTV9VRYiW87gnb5pj4RaVJzTFPKlSXojs5t-cDwA/edit?usp=sharing
 
 - name:     Infrastructure
   days:
