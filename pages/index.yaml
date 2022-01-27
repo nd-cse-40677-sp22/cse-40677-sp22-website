@@ -84,15 +84,15 @@ body:       |
 
         {% for index, project in enumerate(page.external['projects'], 1) %}
 
-        <dt>Project 0{{ index }}: {{ project['name'] }}</dt>
+        <dt><a href="{{ project['link'] }}">Project 0{{ index }}: {{ project['name'] }}</a></dt>
         <dd>
         {% set members = sorted(project['members']) %}
         <tt>{{ members[0] }}</tt>
         {% for member in members[1:] %}
         , <tt>{{ member }}</tt>
         {% end %}
+        </dd>
         {% end %}
-
         </dl>
 
     </div>

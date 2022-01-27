@@ -1,24 +1,28 @@
-- name: Linux Distribution
+- name: Kelpup
+  link: https://kelpup.github.io/kelpup/
   members:
     - bgoodwin
     - jboueri
     - cfinnan
 
-- name: Audio Client/Server
+- name: Raudio
+  link: https://raudio-project.github.io/
   members:
     - tfaughna
     - pgierl
     - nmcshea
     - srodrig9
 
-- name: GNOME Extension
+- name: GnomeHub
+  link: https://gnome-hub.github.io/
   members:
     - varora
     - rmendiza
     - ckusek2
     - ckammes
 
-- name: Social Gaming
+- name: PartyFish
+  link: https://partyfish.netlify.app/
   members:
     - csaca
     - aleone2
