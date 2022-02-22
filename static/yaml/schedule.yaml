@@ -62,7 +62,7 @@
       - date:           Tue 02/15
         topics:         Sprint
       
-      - date:           Tue 02/17
+      - date:           Thu 02/17
         topics:         Briefing
         assignment:     Progress 3
 
@@ -88,7 +88,7 @@
 
 - name:     Packaging
   days:
-      - date:           Thu 03/15
+      - date:           Tue 03/15
         topics:         Packaging, Containers
 
       - date:           Thu 03/17
@@ -107,7 +107,7 @@
       - date:           Tue 03/29
         topics:         Sprint
       
-      - date:           Tue 03/31
+      - date:           Thu 03/31
         topics:         Presentation
         assignment:     Milestone 4
 
@@ -118,7 +118,7 @@
       - date:           Tue 04/05
         topics:         Sprint
       
-      - date:           Tue 04/07
+      - date:           Thu 04/07
         topics:         Briefing
         assignment:     Progress 7
 
