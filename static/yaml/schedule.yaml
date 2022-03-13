@@ -89,10 +89,10 @@
 - name:     Packaging
   days:
       - date:           Tue 03/15
-        topics:         Packaging, Containers
+        topics:         Sprint
 
       - date:           Thu 03/17
-        topics:         Documentation
+        topics:         Briefing
         assignment:     Progress 5
 
       - date:           Tue 03/22
