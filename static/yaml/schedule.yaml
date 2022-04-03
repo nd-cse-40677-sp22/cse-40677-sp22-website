@@ -111,9 +111,9 @@
         topics:         Presentation
         assignment:     Milestone 4
 
-- name:     "Milestone 5: Hackathon"
+- name:     "Milestone 5: Debriefing"
 
-- name:     "Hackathon"
+- name:     "Debriefing"
   days:
       - date:           Tue 04/05
         topics:         Sprint
